@@ -15,3 +15,14 @@ A Prime Number is a number that cannot be made by multiplying other whole number
 Starting number = 13
 
 Ending number = 154
+
+# Sample Output
+
+List of prime numbers are:
+13
+17
+19
+23
+29
+31
+37
