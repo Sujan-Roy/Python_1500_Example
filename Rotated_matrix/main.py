@@ -7,9 +7,9 @@ def rotate_matrix(matrix):
         matrix[i] = matrix[i][::-1]
     return matrix
 
-#def main():
-matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-print(rotate_matrix(matrix))
+def main():
+    matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    print(rotate_matrix(matrix))
 
-#if __name__ == "__main__":
-   # main()
+if __name__ == "__main__":
+    main()
