@@ -13,4 +13,5 @@ A Prime Number is a number that cannot be made by multiplying other whole number
 # Sample Input
 
 Starting number = 13
+
 Ending number = 154
