@@ -1,11 +1,11 @@
-# Problem Statement
+# Problem Statement 
 
 Given a square matrix, turn it by 90 degrees in an anti-clockwise direction without using any extra space
 
 
 # Sample Input
 
-Matrix:
+Given Matrix:
 
 1 2 3
 
@@ -15,7 +15,7 @@ Matrix:
 
 # Sample Output
 
-Matrix:
+Output Matrix:
 
 3 6 9
 
