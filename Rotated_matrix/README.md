@@ -5,7 +5,7 @@ Given a square matrix, turn it by 90 degrees in an anti-clockwise direction with
 
 # Sample Input
 
-Matrix:
+Given Matrix:
 
 1 2 3
 
@@ -15,7 +15,7 @@ Matrix:
 
 # Sample Output
 
-Matrix:
+Output Matrix:
 
 3 6 9
 
