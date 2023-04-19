@@ -15,6 +15,8 @@ Matrix:
 
 # Sample Output
 
+Matrix:
+
 3 6 9
 
 2 5 8
