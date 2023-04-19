@@ -13,7 +13,7 @@ Matrix:
 
 7 8 9
 
-Output:
+# Sample Output
 
 3 6 9
 
