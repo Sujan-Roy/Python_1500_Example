@@ -1,4 +1,4 @@
-# Create a program 
+# Create a program that reverse a given integer number using Loop
 num = int(input("Enter Number= "))
 reverse_num = 0
 while num>0:
