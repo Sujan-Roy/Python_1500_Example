@@ -1,0 +1,3 @@
+The difference between goodput and throughput is that throughput is the measurement of
+ all data flowing through a link whether it is useful data or not, 
+while goodput is focused on useful data only.

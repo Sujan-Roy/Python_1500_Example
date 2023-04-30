@@ -10,3 +10,6 @@ print('current directory: {}'.format(current_dir))
 file_Open = open(current_file,"r")
 print(file_Open.read())
 file_Open.close()
+
+
+
