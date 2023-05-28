@@ -17,12 +17,12 @@ def bhan(arg):
 
 mwin = Tk()
 mwin.title("My Calc")
-#text area as display
+
 t1=StringVar()
 e1=Entry(mwin,textvariable=t1)
 e1.grid(row=0,column=0,columnspan=4)
 
-# Buttons
+# Buttons for Calculator
 b1=Button(mwin,text='1',command=lambda: bhan('1'))
 b2=Button(mwin,text='2',command=lambda: bhan('2'))
 b3=Button(mwin,text='3',command=lambda: bhan('3') )
