@@ -1,6 +1,6 @@
 # Problem Statement
 
- Write a program to display all prime numbers within a range
+ Write a pthon program to display all prime numbers within a range
 
 # Note
 
